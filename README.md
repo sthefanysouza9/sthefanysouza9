@@ -1,8 +1,9 @@
 ## Hi there 👋
-
-<!--
-**sthefanysouza9/sthefanysouza9** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
+Meu nome é Sthefany Salustiano de Souza
+Estou começando no mundo da programação
+Sou aluna do professor Luan de tecnologia
+procuro aprende mais sobre isso
+**sthefanysouza9/sthefanysouza9** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your Git
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
